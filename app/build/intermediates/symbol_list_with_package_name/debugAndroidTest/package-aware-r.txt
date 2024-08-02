@@ -1,0 +1,3 @@
+com.project.medihelp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

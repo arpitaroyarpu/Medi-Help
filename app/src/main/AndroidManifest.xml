@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Service_Provider"
+        tools:targetApi="31">
+        <activity
+            android:name=".admin.Surgeon"
+            android:exported="false" />
+        <activity
+            android:name=".admin.Statistics"
+            android:exported="false" />
+        <activity
+            android:name=".admin.admin_Neurologist"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_doctor_profile"
+            android:exported="false" />
+        <activity
+            android:name=".admin.admin_Psychiatrist"
+            android:exported="false" />
+        <activity
+            android:name=".admin.admin_Cardiologist"
+            android:exported="false" />
+        <activity
+            android:name=".admin.admin_home"
+            android:exported="false" />
+        <activity
+            android:name=".User_profiles"
+            android:exported="false" />
+        <activity
+            android:name=".CatagoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Signin_activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Login_activity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_doctor_single_profile.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/doctor_single_profile.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_doctor_profile.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_doctor_profile.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_area_of_study.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/area_of_study.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_location.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/location.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_payments_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_payments_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/xml_backup_rules.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_nagod.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/nagod.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_login.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_sent_msg_style.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/sent_msg_style.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_receive_msg_bgstyle.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/receive_msg_bgstyle.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_header_curve.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/header_curve.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_call_black_24dp.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_item_container_recivemsg.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/item_container_recivemsg.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_baseline_person_pin_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_payment_bg.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/payment_bg.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_img_code_verification.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/img_code_verification.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_flower.jpg.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/flower.jpg"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_paymentsystem.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_paymentsystem.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_singlerow.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/singlerow.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_field_bg.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/field_bg.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_notification1.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/notification1.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_mediicon.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/mediicon.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_psychiatrist.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_psychiatrist.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_person_pin_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_empty_profile_img.jpg.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/empty_profile_img.jpg"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_electrician_img.jpg.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/electrician_img.jpg"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_statistics.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/statistics.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/xml_data_extraction_rules.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_button_style.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/button_style.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_send_icon.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/send_icon.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_cerclebackground.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/cerclebackground.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_admin_home.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_admin_home.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_add_img_24.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/add_img_24.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_empty_image.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/empty_image.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_background.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/background.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_statistics.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_message_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_message_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/menu_menu_item.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/menu/menu_item.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_login_bg.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/login_bg.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_call_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_call_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_back_img.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/back_img.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_surgeon.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_surgeon.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_search_view_bg2.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/search_view_bg2.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_user_profiles.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_user_profiles.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_tutors.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/tutors.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_place_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_place_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_item_container_sentmsg.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/item_container_sentmsg.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_nav_style.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/nav_style.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_catagory.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_catagory.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_rounded_relativelayout.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/rounded_relativelayout.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_more.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/more.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_card_style_ad.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/card_style_ad.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_signin.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_email_black_24dp.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_neurologist.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_neurologist.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_person_outline_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_profile.jpg.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/profile.jpg"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_medilogo.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/medilogo.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_back_arrow.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/back_arrow.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_card_style.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/card_style.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_checkmark.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/checkmark.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-pngs-34:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_security_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_security_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_activity_admin_cardiologist.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/activity_admin_cardiologist.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.project.medihelp.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_baseline_email_24.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_ic_add_location_black_24dp.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/ic_add_location_black_24dp.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_chamber.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/chamber.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/layout_drop_down_item.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/layout/drop_down_item.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_image_icon.xml.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/image_icon.xml"
+    },
+    {
+        "merged": "com.project.medihelp.app-merged_res-39:/drawable_doctorm.png.flat",
+        "source": "com.project.medihelp.app-main-41:/drawable/doctorm.png"
+    }
+]

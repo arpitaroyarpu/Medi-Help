@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1018198672541-1j08d82rgtq9o98v51qivuoni0gajfls.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://medihelp-9048e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1018198672541</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4P64W2DjjhGsnK6EVSxK4nGLtiQ_3cao</string>
+    <string name="google_app_id" translatable="false">1:1018198672541:android:7f5b46e475003ccb508074</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4P64W2DjjhGsnK6EVSxK4nGLtiQ_3cao</string>
+    <string name="google_storage_bucket" translatable="false">medihelp-9048e.appspot.com</string>
+    <string name="project_id" translatable="false">medihelp-9048e</string>
+</resources>

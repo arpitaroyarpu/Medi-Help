@@ -1,0 +1,9 @@
+com.project.medihelp.test.app-core-1.5.0-0 C:\Users\saif0\.gradle\caches\transforms-3\0183f10e376a3ff89bc9f6b6b01b2e7b\transformed\core-1.5.0\res
+com.project.medihelp.test.app-annotation-experimental-1.3.0-1 C:\Users\saif0\.gradle\caches\transforms-3\26b221667aa2355a15cbff507ddbbb77\transformed\annotation-experimental-1.3.0\res
+com.project.medihelp.test.app-androidTest-2 C:\Users\saif0\StudioProjects\medihelp\app\build\generated\res\resValues\androidTest\debug
+com.project.medihelp.test.app-androidTest-3 C:\Users\saif0\StudioProjects\medihelp\app\build\generated\res\rs\androidTest\debug
+com.project.medihelp.test.app-mergeDebugAndroidTestResources-4 C:\Users\saif0\StudioProjects\medihelp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.project.medihelp.test.app-mergeDebugAndroidTestResources-5 C:\Users\saif0\StudioProjects\medihelp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.project.medihelp.test.app-merged_res-6 C:\Users\saif0\StudioProjects\medihelp\app\build\intermediates\merged_res\debugAndroidTest
+com.project.medihelp.test.app-androidTest-7 C:\Users\saif0\StudioProjects\medihelp\app\src\androidTest\res
+com.project.medihelp.test.app-androidTestDebug-8 C:\Users\saif0\StudioProjects\medihelp\app\src\androidTestDebug\res

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018198672541",
+    "firebase_url": "https://medihelp-9048e-default-rtdb.firebaseio.com",
+    "project_id": "medihelp-9048e",
+    "storage_bucket": "medihelp-9048e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018198672541:android:7f5b46e475003ccb508074",
+        "android_client_info": {
+          "package_name": "com.project.medihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018198672541-1j08d82rgtq9o98v51qivuoni0gajfls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4P64W2DjjhGsnK6EVSxK4nGLtiQ_3cao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018198672541-1j08d82rgtq9o98v51qivuoni0gajfls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

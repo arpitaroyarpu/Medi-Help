@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Signin_activity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="#4DB4E9"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="26sp"
+       />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imguploadp"
+            android:layout_width="110dp"
+            app:civ_border_width="1dp"
+            android:layout_height="110dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/empty_image"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Photo"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/black"
+            />
+    </LinearLayout>
+
+   <LinearLayout
+       android:layout_margin="20dp"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:hint="Username"
+           android:id="@+id/username"
+           android:padding="15dp"
+           android:background="@drawable/card_style"
+           android:drawableLeft="@drawable/baseline_person_outline_24"
+           android:drawablePadding="20dp"
+           android:layout_marginTop="10dp"
+           />
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:hint="Email"
+           android:id="@+id/email"
+           android:padding="15dp"
+           android:background="@drawable/card_style"
+           android:drawableLeft="@drawable/baseline_email_24"
+           android:drawablePadding="20dp"
+           android:layout_marginTop="10dp"
+           />
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:hint="Address"
+           android:id="@+id/address"
+           android:padding="15dp"
+           android:background="@drawable/card_style"
+           android:drawableLeft="@drawable/baseline_place_24"
+           android:drawablePadding="20dp"
+           android:layout_marginTop="10dp"
+           />
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:hint="Password"
+           android:inputType="textPassword"
+           android:id="@+id/pass"
+           android:padding="15dp"
+           android:background="@drawable/card_style"
+           android:drawableLeft="@drawable/baseline_security_24"
+           android:drawablePadding="20dp"
+           android:layout_marginTop="10dp"
+           />
+       <EditText
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:hint="Confirm Password"
+           android:inputType="textPassword"
+           android:id="@+id/confirmpass"
+           android:padding="15dp"
+           android:background="@drawable/card_style"
+           android:layout_marginTop="10dp"
+           android:drawableLeft="@drawable/baseline_security_24"
+           android:drawablePadding="20dp"
+           />
+
+   </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Register"
+        android:text="Register"
+        android:textSize="17sp"
+        android:textAllCaps="false"
+        android:elevation="15dp"
+        android:gravity="center"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:backgroundTint="#4DB4E9"
+        > </Button>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Already Have an Account!"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_gravity="center">
+    </TextView>
+
+    <Button
+        android:id="@+id/logedIn"
+        android:layout_width="168dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="80dp"
+        android:backgroundTint="#4DB4E9"
+        android:elevation="15dp"
+        android:gravity="center"
+        android:text="Log In"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="17sp"/>
+
+
+</LinearLayout>
